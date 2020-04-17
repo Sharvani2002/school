@@ -1,7 +1,7 @@
 school
 ==============================
 
-A short description of the project.
+A data science assignment to determine the relationship between students’ attendance in class and their performance in the examination
 
 Project Organization
 ------------
